@@ -232,5 +232,4 @@ function checkTarget(e) {
 
         disactivateAside();
     };
-
 }
